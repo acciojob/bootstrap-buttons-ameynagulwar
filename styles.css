@@ -1,2 +1,14 @@
+#button-5{
+  width: 100%;
+}
 
-/* Your CSS Code here. */
+#button-8{
+  background-color: white;
+  color: blue;
+  text-decoration: underline;
+}
+
+#button-2{
+  background-color: white;
+  color: blue;
+}
